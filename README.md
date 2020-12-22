@@ -1,4 +1,3 @@
-# P42.Utils
+# P42.NumericalMethods
 
-A number of small utility functions used in the development of cross platform applications.  As .NetStandard becomes more feature complete, this library should become more obsolete.
-
+A portion of the P42.Utils project, for easy NuGet packing.
